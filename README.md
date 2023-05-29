@@ -1,7 +1,4 @@
-Hi 👋 My name is Dmytro Hula
-============================
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hulaaaa)  
-Junior Front-end developer
+[<img src='https://hulaaaa.github.io/welcome/bg1.png' alt='github'>](https://github.com/hulaaaa)  
 --------------------------
 
 I create projects because I really enjoy developing sites and bringing something interesting to life, you can see it on my GitHub. I research new technologies to bring ideas to life
