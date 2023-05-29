@@ -1,4 +1,4 @@
-[<img src='https://hulaaaa.github.io/welcome/bg1.png' alt='github'>](https://github.com/hulaaaa)  
+[<img src='https://hulaaaa.github.io/minimo.Hula/bg1.png' alt='bg'>](https://github.com/hulaaaa)  
 --------------------------
 
 I create projects because I really enjoy developing sites and bringing something interesting to life, you can see it on my GitHub. I research new technologies to bring ideas to life
