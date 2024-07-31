@@ -5,7 +5,6 @@ I create projects because I really enjoy developing sites and bringing something
 
 * 🌍  I'm based in Warsaw, Poland
 * ✉️  You can contact me at [guladmitro261@gmail.com](mailto:guladmitro261@gmail.com)
-* 🧠  I'm learning React, Next.js
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
