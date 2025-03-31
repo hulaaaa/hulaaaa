@@ -1,6 +1,3 @@
-I'm a front-end developer with a background in developing web and mobile applications on React. 
+front-end dev
 
-
-📧 Email: guladmitro261@gmail.com
-
-☎️Telegram: @hula_dm
+contact: huladm@icloud.com
