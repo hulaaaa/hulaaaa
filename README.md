@@ -1,5 +1,5 @@
-front-end dev
+software engineer(go, react, js/ts, python)
 
 contact: huladm@icloud.com
 
-telegram: @hula_dm
+telegram: https://t.me/hula_dm
