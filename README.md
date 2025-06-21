@@ -1,5 +1,5 @@
-software engineer(go, react, js/ts, python)
+Software Engineer(React, JS/TS, React Native)
 
-contact: huladm@icloud.com
+Contact: huladm@icloud.com
 
-telegram: https://t.me/hula_dm
+Telegram: https://t.me/hula_dm
