@@ -1,4 +1,4 @@
-Software Engineer(React, JS/TS, React Native)
+Software Engineer
 
 Contact: huladm@icloud.com
 
